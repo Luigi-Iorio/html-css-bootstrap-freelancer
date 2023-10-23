@@ -14,6 +14,6 @@ L'obbiettivo della prima parte dell'esercizio dopo aver studiato l'utilizzo dell
 
 ![Screenshot tablet](img/Schermata_tablet.png)
 
-### Dekstop
+### Desktop
 
 ![Screenshot desktop](img/Schermata.png)
