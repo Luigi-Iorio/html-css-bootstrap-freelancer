@@ -24,3 +24,17 @@ header {
 .two .row div .img {
   background-color: aqua;
 }
+
+/* SEZIONE TRE */
+.three {
+  color: white;
+  background-color: var(--verde);
+}
+
+.three .row {
+  max-width: 900px;
+}
+
+.three hr {
+  width: 100%;
+}
