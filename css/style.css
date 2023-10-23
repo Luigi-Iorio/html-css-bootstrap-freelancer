@@ -19,3 +19,8 @@ header {
 .one > div {
   max-width: 600px;
 }
+
+/* SEZIONE DUE */
+.two .row div .img {
+  background-color: aqua;
+}
