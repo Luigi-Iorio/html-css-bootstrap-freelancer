@@ -17,10 +17,6 @@ header {
   background-color: var(--verde);
 }
 
-.one > div {
-  max-width: 600px;
-}
-
 /* SEZIONE DUE */
 .two .row div .img {
   background-color: aqua;
@@ -30,10 +26,6 @@ header {
 .three {
   color: white;
   background-color: var(--verde);
-}
-
-.three .row {
-  max-width: 900px;
 }
 
 .three hr {
