@@ -2,6 +2,7 @@
 :root {
   --blu: #2c3e50;
   --verde: #1abc9c;
+  --blu-chiaro: #3a546d;
 }
 
 /* HEADER */
@@ -43,4 +44,17 @@ header {
 .four button {
   color: white;
   background-color: var(--verde);
+}
+
+/* FOOTER */
+footer {
+  color: white;
+}
+
+footer .top {
+  background-color: var(--blu-chiaro);
+}
+
+footer .bottom {
+  background-color: var(--blu);
 }
