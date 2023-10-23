@@ -38,3 +38,9 @@ header {
 .three hr {
   width: 100%;
 }
+
+/* SEZIONE QUATTRO */
+.four button {
+  color: white;
+  background-color: var(--verde);
+}
