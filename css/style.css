@@ -38,6 +38,10 @@ header {
 }
 
 /* SEZIONE QUATTRO */
+.four {
+  color: var(--blu);
+}
+
 .four button {
   color: white;
   background-color: var(--verde);
