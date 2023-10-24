@@ -1,3 +1,6 @@
+/* IMPORT */
+@import "./_components/component.css";
+
 /* COMMON */
 :root {
   --blu: #2c3e50;
@@ -12,8 +15,12 @@ header {
 
 /* SEZIONE UNO */
 .one {
-  color: white;
   background-color: var(--verde);
+}
+
+.one .img {
+  height: 260px;
+  width: 225px;
 }
 
 /* SEZIONE DUE */

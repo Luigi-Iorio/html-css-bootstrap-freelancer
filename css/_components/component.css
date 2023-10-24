@@ -1,0 +1,11 @@
+/* STAR COMPONENT */
+.star::before,
+.star::after {
+  content: "";
+  display: inline-block;
+  height: 4px;
+  width: 10%;
+  background-color: white;
+  vertical-align: middle;
+  border-radius: 20px;
+}
