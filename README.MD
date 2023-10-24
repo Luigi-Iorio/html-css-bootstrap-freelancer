@@ -17,3 +17,21 @@ L'obbiettivo della prima parte dell'esercizio dopo aver studiato l'utilizzo dell
 ### Desktop
 
 ![Screenshot desktop](img/Schermata.png)
+
+## Seconda parte
+
+L'obbiettivo della seconda parte dell'esercizio invece, era quello di approfondire e utilizzare gli strumenti forniti da Bootstrap: nav, button, form , ecc. Questo per personalizzare la pagina secondo le esigenze di layout.
+
+Mi sono concentrato anche sulla creazione di componenti indipendenti da Bootstrap che includono separatori e link ai social media. Questi componenti sono "framework-agnostic" e permettono di mantenere il progetto flessibile e adattabile alle varie esigenze.
+
+### Mobile
+
+![layout definitivo mobile](img/layouts/smartphone.png)
+
+### Tablet
+
+![layout definitivo tablet](img/layouts/tablet.png)
+
+### Desktop
+
+![layout definitivo desktop](img/layouts/desktop.png)
