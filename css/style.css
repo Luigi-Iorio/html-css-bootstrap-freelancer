@@ -24,8 +24,8 @@ header {
 }
 
 /* SEZIONE DUE */
-.two .row div .img {
-  background-color: aqua;
+.two {
+  color: var(--blu);
 }
 
 /* SEZIONE TRE */
