@@ -8,6 +8,11 @@
   --blu-chiaro: #3a546d;
 }
 
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
 /* HEADER */
 header {
   background-color: var(--blu);
@@ -58,4 +63,8 @@ footer .top {
 
 footer .bottom {
   background-color: var(--blu);
+}
+
+footer a.green {
+  color: var(--verde);
 }

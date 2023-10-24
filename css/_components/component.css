@@ -9,3 +9,17 @@
   vertical-align: middle;
   border-radius: 20px;
 }
+
+/* ICONS COMPONENT */
+.icon i {
+  height: 45px;
+  width: 45px;
+  line-height: 45px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+}
+
+.icon i:hover {
+  cursor: pointer;
+  color: var(--verde);
+}
